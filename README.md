@@ -1,6 +1,6 @@
 # reproduce-loading-fonts
 
-> https://forum.vuejs.org/t/loading-local-fonts-with-vue-cli-3/38967/2
+> https://forum.vuejs.org/t/loading-local-fonts-not-working/92959
 
 ## Project setup
 
